@@ -6,7 +6,7 @@
 @import url(https://crearts-community.github.io/Settings-Icons/clients/powercord.css);
 /*--------------COLORS---------------*/
 /*------remove / and * to apply------*/
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/blue.css); */
+@import url(https://raw.githack.com/schnensch0/zelk/main/colors/blue.css);
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/green.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/gray.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/orange.css); */
@@ -66,7 +66,7 @@
   --background-modifier-accent: transparent;
   --background-message-hover: transparent;
   /* text */
-  --text-normal: var(--accent-color);
+  --text-normal: #FFFFFF;
   --text-positive: var(--text-normal);
   --text-muted: #6d8692;
   --text-link: #edf8fe;
@@ -88,7 +88,7 @@
   /* buttons */
   --button-background: #2a3439;
   --button-background-hover: #354249;
-  --button-background-active: #4d5f68;
+  --button-background-active: #495a63;
   --button-accent: var(--accent-color);
   --button-accent-hover: #d2f3ff;
   --button-accent-active: #8dd4f8;
